@@ -51,7 +51,7 @@ By the time you submit this project, you will have covered new ground in, and re
 - **Build a full stack web application**.  Must be your own work.
 - **Select a Project Idea of your own**.
 - Have at _least_ 2 models (more if makes sense)
-    - Auth is **NOT** a requirement
+- Must at least have User Authentication and CRUD on a resource
 - Have full CRUD on at _least_ one of your models
 - Be able to Add/Delete on any remaining models
 - Have high quality code:

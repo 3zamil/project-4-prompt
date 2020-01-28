@@ -71,7 +71,7 @@ By the time you submit this project, you will have covered new ground in, and re
 
 ### Necessary Deliverables
 
-Projects are due **Thursday, 05/02 at 11am**!  
+Projects are due **Wednesday, 05/02 at 10am**!  
 
 Submissions will be submitted by posting into slack
 - a link to your deployed application 
